@@ -14,7 +14,7 @@ Calabacines rellenos
 * Sal
 * Pimienta
 
-*Nota: Ingredientes para 4 personas.*
+*Nota: Ingredientes para 2 personas.*
 
 ## El algoritmo
 
