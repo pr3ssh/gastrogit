@@ -1,7 +1,7 @@
 Cóctel de clamato con gambas y tomate
 =======================
 
-![Foto del Pollo frito de Kentucky](images/coctel-de-clamato-con-gambas-y-tomate_thumb.jpg)
+![Foto del Cóctel de clamato con gambas y tomate](images/coctel-de-clamato-con-gambas-y-tomate_thumb.jpg)
 
 ## Los ingredientes
 
