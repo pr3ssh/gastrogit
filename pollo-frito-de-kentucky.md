@@ -18,7 +18,7 @@ Pollo frito de Kentucky
 * Salsa barbacoa para acompañar
 * 1 bolsa de congelación grande o recipiente hermético
 
-*Nota: Recursos para 4 personas.*
+*Nota: Ingredientes para 4 personas.*
 
 ## El algoritmo
 

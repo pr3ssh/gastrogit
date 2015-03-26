@@ -16,7 +16,7 @@ Cóctel de clamato con gambas y tomate
 * 1 lima
 * Salsa picante
 
-*Nota: Recursos para 4 personas.*
+*Nota: Ingredientes para 4 personas.*
 
 ## El algoritmo
 
