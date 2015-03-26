@@ -3,7 +3,7 @@ Pollo frito de Kentucky
 
 ![Foto del Pollo frito de Kentucky](images/pollo-frito-de-kentucky_thumb.jpg)
 
-## Los recursos
+## Los ingredientes
 
 * De 12 a 15 muslitos de pollo sin piel
 * 2 cucharadas de sal gruesa

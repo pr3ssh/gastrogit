@@ -3,7 +3,7 @@ Cóctel de clamato con gambas y tomate
 
 ![Foto del Pollo frito de Kentucky](images/coctel-de-clamato-con-gambas-y-tomate_thumb.jpg)
 
-## Los recursos
+## Los ingredientes
 
 * 1 litro de clamato 
 * 300 gramos de gambas peladas
