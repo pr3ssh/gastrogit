@@ -20,20 +20,11 @@ Pollo frito de Kentucky
 
 *Nota: Ingredientes para 4 personas.*
 
-## El algoritmo
+## Paso a paso
 
-```
-
-1. Poner a macerar los muslitos en 500ml de agua con la sal gruesa (el agua debe cubrirlos). Dejar en el frigorifico durante una hora.
-
+1. Poner a macerar los muslitos en 500ml de agua con la sal gruesa (el agua debe cubrirlos). Dejar en el frigorífico durante una hora.
 2. Batir el huevo en un plato hondo junto con el pimenton, el ajo y la pimienta.
-
 3. Secar bien los muslos y pasarlos por el huevo batido.
-
-4. En una bolsa de congelacion o recipiente hermetico, mezclar bien la harina, los copos de avena y la sal.
-
-5. Anadir el pollo, cerrar y sacudir bien para cubrir todos los trozos con el rebozado. Dejar reposar en una rejilla durante 15 minutos.
-
-6. Freir en aceite bien caliente durante unos 25 minutos -o hasta que los muslitos esten dorados- y servir acompañados de salsa barbacoa.
-
-```
+4. En una bolsa de congelación o recipiente hermetico, mezclar bien la harina, los copos de avena y la sal.
+5. Añadir el pollo, cerrar y sacudir bien para cubrir todos los trozos con el rebozado. Dejar reposar en una rejilla durante 15 minutos.
+6. Freir en aceite bien caliente durante unos 25 minutos -o hasta que los muslitos estén dorados- y servir acompañados de salsa barbacoa.

@@ -18,19 +18,10 @@ Cóctel de clamato con gambas y tomate
 
 *Nota: Ingredientes para 4 personas.*
 
-## El algoritmo
+## Paso a paso
 
-```
-
-1. En una ensaladera de buen tamano, mezclar el clamato -zumo de tomate preparado con especias, salsa picante y jugo del almeja- con el zumo de limon y la salsa Worcestershire.
-
+1. En una ensaladera de buen tamaño, mezclar el clamato -zumo de tomate preparado con especias, salsa picante y jugo del almeja- con el zumo de limón y la salsa Worcestershire.
 2. Cortar los tomates en gajos y el pepino y el aguacate en daditos.
-
-3. Mezclar la verdura y el cilantro picado con el zumo de tomate, anadir las gambas y salsa picante al gusto.
-
-4. Dejar reposar en el frigorifico durante una hora y servir en vasos adornados con rodajas de lima.
-
+3. Mezclar la verdura y el cilantro picado con el zumo de tomate, añadir las gambas y salsa picante al gusto.
+4. Dejar reposar en el frigorífico durante una hora y servir en vasos adornados con rodajas de lima.
 5. Degustar con cucharas o minitenedores.
-
-
-```
