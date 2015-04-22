@@ -15,6 +15,7 @@ Ensalada fresca
 * Sal
 
 *Nota: Ingredientes para 2 personas.*
+
 *Se recomienda usar el vinagre de vino de la Denominación de Origen Condado de Huelva*
 
 ## Paso a paso
