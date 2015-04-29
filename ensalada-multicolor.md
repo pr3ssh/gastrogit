@@ -1,7 +1,7 @@
-Ensalada fresca
+Ensalada Multicolor
 =======================
 
-![Foto de la Ensalada Fresca](images/ensalada-fresca_thumb.jpg)
+![Foto de la Ensalada Fresca](images/ensalada-multicolor_thumb.jpg)
 
 ## Los ingredientes
 
